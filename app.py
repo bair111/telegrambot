@@ -1,5 +1,5 @@
 import telebot
-from config import TOKEN
+from config import TOKEN, keys
 from extensions import APIException, Converter
 
 
